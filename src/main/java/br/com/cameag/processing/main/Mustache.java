@@ -84,6 +84,7 @@ public class Mustache {
 
 		return cimg;
 	}
+	
 
 	public static void main(String[] args) throws IOException {
 		args = new String[] { "-v" };
