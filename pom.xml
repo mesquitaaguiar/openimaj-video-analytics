@@ -4,6 +4,7 @@
   <artifactId>openimagem-video-analytics</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
+	
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <org.openimaj>1.3.6</org.openimaj>
